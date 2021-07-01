@@ -8,7 +8,7 @@ These are TopoJSON files downloaded from the US Census Bureau, optimized, simpli
 
 ## Oakland geo files
 
-Depending on your browser, either click on the links directly or right-click (also option-click on a Mac) and download the file that way.
+Depending on your browser, either click on the links directly or right-click (also option-click on a Mac) and choose "Save link as ..." or the equivalent. 
 
 - [oakland_blocks_2010_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2010_for_dw.json)
 - [oakland_blocks_2020_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2020_for_dw.json)
