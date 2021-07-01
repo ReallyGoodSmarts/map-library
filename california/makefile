@@ -137,10 +137,10 @@ oakland-blocks-for-datawrapper:
 		-each 'GEOID=GEOID10, delete GEOID10' \
 		-o format=topojson for_datawrapper/oakland_blocks_2010_for_dw.json
 
-oakland:
-	
-	-proj EPSG:4326
-	
+awslinks:
+	# this only works for me, since I'm authenticated for this
+	aws s3 sync for_datawrapper s3://media.johnkeefe.net/theoaklandside/for_datawrapper --acl public-read
+
 clean:
 	rm -rf tmp
 	
