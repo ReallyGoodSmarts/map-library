@@ -14,6 +14,17 @@ Depending on your browser, either click on the links directly or right-click (al
 - [oakland_tracts_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_tracts_for_dw.json)
 - [oakland_zips_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_zips_for_dw.json)
 
+### Berkeley geo files
+
+Depending on your browser, either click on the links directly or right-click (also option-click on a Mac) and choose "Save link as ..." or the equivalent. 
+
+- [berkeley_blocks_2010_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/berkeley_blocks_2010_for_dw.json)
+- [berkeley_blocks_2020_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/berkeley_blocks_2020_for_dw.json)
+- [berkeley_block_groups_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/berkeley_block_groups_for_dw.json)
+- [berkeley_tracts_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/berkeley_tracts_for_dw.json)
+- [berkeley_zips_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/berkeley_zips_for_dw.json)
+
+
 ## Sources
 
 US Census Bureau:
