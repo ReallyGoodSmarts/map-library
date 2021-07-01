@@ -1,12 +1,26 @@
 # California
 
+## Easy-download Links
+
+To make it super-easy to download, here are the same map files contained in `for_datawrapper` but linked in a way that is simple to download. These are TopoJSON files optimized, simplified, and reprojected for use as base data maps with [Datawrapper](https://datawrapper.de).
+
+### Oakland geo files
+
+Depending on your browser, either click on the links directly or right-click (also option-click on a Mac) and choose "Save link as ..." or the equivalent. 
+
+- [oakland_blocks_2010_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_blocks_2010_for_dw.json)
+- [oakland_blocks_2020_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_blocks_2020_for_dw.json)
+- [oakland_block_groups_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_block_groups_for_dw.json)
+- [oakland_tracts_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_tracts_for_dw.json)
+- [oakland_zips_for_dw.json](https://raw.githubusercontent.com/ReallyGoodSmarts/map-library/main/california/for_datawrapper/oakland_zips_for_dw.json)
 
 ## Sources
 
 US Census Bureau:
 
 - https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html
-- 
+- https://www2.census.gov/geo/tiger/TIGER2020/
+- https://www2.census.gov/geo/tiger/TIGER2020/2020_TL_Shapefiles_File_Name_Definitions.pdf
 
 ## Water files
 
