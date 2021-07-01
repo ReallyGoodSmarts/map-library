@@ -10,11 +10,11 @@ These are TopoJSON files downloaded from the US Census Bureau, optimized, simpli
 
 Depending on your browser, either click on the links directly or right-click (also option-click on a Mac) and download the file that way.
 
-- [oakland_blocks_2010_for_dw.json](https://media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2010_for_dw.json)
-- [oakland_blocks_2020_for_dw.json](https://media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2020_for_dw.json)
-- [oakland_block_groups_for_dw.json](https://media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_block_groups_for_dw.json)
-- [oakland_tracts_for_dw.json](https://media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_tracts_for_dw.json)
-- [oakland_zips_for_dw.json](https://media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_zips_for_dw.json)
+- [oakland_blocks_2010_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2010_for_dw.json)
+- [oakland_blocks_2020_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_blocks_2020_for_dw.json)
+- [oakland_block_groups_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_block_groups_for_dw.json)
+- [oakland_tracts_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_tracts_for_dw.json)
+- [oakland_zips_for_dw.json](https://s3.amazonaws.com/media.johnkeefe.net/theoaklandside/for_datawrapper/oakland_zips_for_dw.json)
 
 
 
